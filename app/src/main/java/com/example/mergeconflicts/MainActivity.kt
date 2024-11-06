@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         val a = A()
 
         a.printString("Hello world!")
+
+        //new string added
     }
 }
