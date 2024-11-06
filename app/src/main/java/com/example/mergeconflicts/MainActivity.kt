@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
 
         val a = A()
 
-        a.print("Hello world!")
+        a.printString("Hello world!")
     }
 }
