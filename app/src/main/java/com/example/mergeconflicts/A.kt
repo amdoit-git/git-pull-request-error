@@ -6,4 +6,8 @@ class A {
     fun printString(str:String){
         Log.d("WWW", str)
     }
+
+    fun test(){
+
+    }
 }
